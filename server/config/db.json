@@ -1,0 +1,32 @@
+[
+  {
+    "default": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": "",
+      "db_name": ""
+    },
+    "dev": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": "",
+      "db_name": ""
+    },
+    "uat": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": "",
+      "db_name": ""
+    },
+    "prod": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": "",
+      "db_name": ""
+    }
+  }
+]
